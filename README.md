@@ -5,8 +5,9 @@ dicebear-avatar base [dicebear](https://github.com/dicebear/dicebear) by:
 - vue3
 - Element UI
 
+<br>
+<br>
 
-
-<div style="display: flex;justify-content: center;">
+<p align="center">
   <img src='public/cool.gif' style='width:300px'/>
-</div>
+</p>
