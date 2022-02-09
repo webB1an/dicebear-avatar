@@ -9,7 +9,7 @@
         class="input-with-select"
       >
         <template #prepend>
-          <el-select v-model="spriteCollectionId" placeholder="选择类型" style="width: 110px;">
+          <el-select v-model="spriteCollectionId" placeholder="选择类型" style="width: 160px;">
             <el-option
               v-for="item in spriteCollections"
               :key="item.id"
