@@ -64,6 +64,7 @@ export default {
   },
   facialHairColor: {
     type: 'checkbox',
+    // @ts-ignore
     values: schema.properties.facialHairColor.items.enum,
     defaultValue: []
   },
